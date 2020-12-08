@@ -18,5 +18,4 @@
     <url>http://localhost:8081/repository/jenkins/</url>
   </snapshotRepository>
 </distributionManagement>
-
 </project>
