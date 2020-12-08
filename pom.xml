@@ -12,6 +12,7 @@
 </properties>
 <distributionManagement>
   <snapshotRepository>
+           
     <id>jenkins</id>
     <name>jenkins</name>
     <url>http://localhost:8081/repository/jenkins/</url>
